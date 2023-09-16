@@ -36,7 +36,7 @@ If you'd like to contribute to the project, please follow these guidelines:
 - Submit a pull request with a clear description of your changes.
 
 ## License
-This project is licensed under the [MIT License](LICENSE.md).
+https://github.com/Roshk01/Mental_health_report_prediction_model-/blob/main/SECURITY.md
 
 ## Contact
 For questions or feedback, please contact the project maintainers:
