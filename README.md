@@ -40,7 +40,7 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contact
 For questions or feedback, please contact the project maintainers:
-- [Roshani Kumari](kumariroshani240@gmail.com)
+- kumariroshani240@gmail.com
 
 ## Acknowledgments
 - IBM SkillBuild Edunet.
